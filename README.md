@@ -26,3 +26,6 @@ To unlock the stickers, it's pretty simple :
 - Discord App (Linux/Windows/MacOS)
 - Discord PTB
 - Discord Canary
+
+# Some Images
+![Alt text](https://support.discord.com/hc/article_attachments/360094969334/image17.gif "Optional title")
