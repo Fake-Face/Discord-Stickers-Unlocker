@@ -28,4 +28,4 @@ To unlock the stickers, it's pretty simple :
 - Discord Canary
 
 # Some Images
-![](https://support.discord.com/hc/article_attachments/360094969334/image17.gif "Optional title")
+![](https://support.discord.com/hc/article_attachments/360094969434/image13.png "Optional title")
